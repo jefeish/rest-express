@@ -1,0 +1,25 @@
+{
+  "name": "rest-express",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefeish/rest-express.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jefeish/rest-express/issues"
+  },
+  "homepage": "https://github.com/jefeish/rest-express#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
